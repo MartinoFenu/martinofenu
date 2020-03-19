@@ -1,0 +1,13 @@
+.projectsWrapper {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: 1fr;
+  grid-auto-rows: 1fr;
+  gap: 1.2rem;
+}
+
+@media only screen and (max-width: 700px) {
+  .projectsWrapper {
+    grid-template-columns: 1fr;
+  }
+}

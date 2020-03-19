@@ -1,0 +1,12 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+.midWrapper {
+  flex-grow: 1;
+}
+.main {
+  padding-top: 6rem;
+  padding-bottom: 3rem;
+}

@@ -1,0 +1,23 @@
+.footer {
+  border-top: 0.01em solid #cccccc;
+  box-sizing: border-box;
+  padding: 1rem 0;
+}
+.footer-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 90%;
+  max-width: 1280px;
+  margin: 0 auto;
+}
+.socialLinks a:after {
+  display: none;
+}
+@media only screen and (max-width: 350px) {
+  .footer-wrapper {
+    width: 100%;
+    flex-flow: column;
+    align-items: center;
+  }
+}
