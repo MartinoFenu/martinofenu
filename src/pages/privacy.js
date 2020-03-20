@@ -1,5 +1,6 @@
 import React from 'react';
 import Helmet from "react-helmet";
+import SEO from "../components/Seo";
 import { useStaticQuery, graphql } from "gatsby";
 
 const Privacy = () => {
@@ -22,6 +23,7 @@ const Privacy = () => {
   )
   return (
     <>
+      <SEO title="Privacy policy"/>
       <Helmet>
         <meta name="robots" content="noindex, follow" />
       </Helmet>

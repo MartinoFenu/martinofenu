@@ -4,8 +4,6 @@ import scrollToElement from 'scroll-to-element';
 import Link from '../Link';
 
 const Navbar = () => {
-  let location;
-  if(typeof window !== 'undefined') location = window.location.origin;
 
   const handleClick = ( e, target ) => {
     if(typeof window !== 'undefined') {
@@ -22,17 +20,17 @@ const Navbar = () => {
     <nav className={styles.navbar}>
       <ul className={styles.navlist}>
         <li><Link
-              to={`${location}/#about`}
+              to={`/#about`}
               onClick={e => handleClick(e, '#about')}>About
             </Link>
         </li>
         <li><Link
-              to={`${location}/#projects`}
+              to={`/#projects`}
               onClick={e => handleClick(e, '#projects')}>Projects
             </Link>
         </li>
         <li><Link
-              to={`${location}/#contact`}
+              to={`/#contact`}
               onClick={e => handleClick(e, '#contact')}>Contact
             </Link>
         </li>
