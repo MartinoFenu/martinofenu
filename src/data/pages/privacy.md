@@ -61,7 +61,7 @@ The only personal data collected and requested are: Full name and email-address.
 
 This service is provided by Google Analytics (Google Inc.). Google collects data anonymously to track and examine the use of this application.
 Personal data collected cookies and usage data.
-The data collected by Google is precessed in the US, for more information visit [Google privacy policy](https://www.google.com/intl/it/policies/privacy/).
+The data collected by Google is processed in the US, for more information visit [Google privacy policy](https://www.google.com/intl/it/policies/privacy/).
 
 
 ### Use of cookies
@@ -81,7 +81,7 @@ Some of the third parties cookies may not require the consent of the user or may
 
 This service is provided by Google Analytics (Google Inc.). Google collects data anonymously to track and examine the use of this application.
 Personal data collected cookies and usage data.
-The data collected by Google is precessed in the US, for more information visit [Google privacy policy](https://www.google.com/intl/it/policies/privacy/).
+The data collected by Google is processed in the US, for more information visit [Google privacy policy](https://www.google.com/intl/it/policies/privacy/).
 
 
 ### Information on how to check and block cookie installation
