@@ -20,7 +20,7 @@
     "gatsby-plugin-sharp": "^2.3.13",
     "gatsby-plugin-svgr-loader": "^0.1.0",
     "gatsby-source-filesystem": "^2.1.46",
-    "gatsby-transformer-remark": "^2.6.48",
+    "gatsby-transformer-remark": "^5.25.1",
     "react": "^16.12.0",
     "react-cookie-consent": "^3.0.0",
     "react-dom": "^16.12.0",
